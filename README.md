@@ -1,7 +1,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=loregbrw">
-  <img height=125 align="left" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw">
-  <img height=125 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true&hide=batchfile" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true&hide=batchfile" />
 </a>
