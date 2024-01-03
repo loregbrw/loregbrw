@@ -1,3 +1,5 @@
+## Hello Worlld! I'm Lore, a 19yo student from Brazil! ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+
 <a href="https://github-readme-stats.vercel.app/api?username=loregbrw">
   <img height=135 align="left" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" />
 </a>
