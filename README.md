@@ -1,4 +1,4 @@
-## Hello World! I'm Lore, a 19yo student learning programming! ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+## Hello World! I'm Lore, a 19yo learning new programming languages! ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
 <a href="https://github-readme-stats.vercel.app/api?username=loregbrw">
   <img height=135 align="left" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" />
