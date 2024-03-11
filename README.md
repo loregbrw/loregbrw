@@ -11,9 +11,9 @@
 </a>
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="c logo"  />
 </div>
