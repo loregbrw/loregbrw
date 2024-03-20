@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw">
-  <img height=135 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true&hide=batchfile,javascript,html,c%2B%2B,css" />
+  <img height=135 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true&hide=batchfile,javascript,html,c%2B%2B,css,ejs" />
 </a>
 
 <a href="https://i.imgur.com/lQ2QBPi.png">
