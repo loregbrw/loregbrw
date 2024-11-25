@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <img style="height: 145px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
   <img style="height: 145px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true" alt="Top Languages" />
   <img style="height: 145px; margin-right: 10px;" src="https://i.imgur.com/lQ2QBPi.png" alt="Custom Image" />
