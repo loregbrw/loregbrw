@@ -1,5 +1,3 @@
-# Hello World! I'm Lore ༉‧₊˚.
-
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img height=145px align="left" src="https://github-readme-stats.vercel.app/api?username=loregbrw&show_icons=true&theme=onedark&hide_border=true" />
   <img height=145px align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loregbrw&layout=compact&theme=gruvbox_light&hide_border=true&size_weight=0.7&count_weight=0.3" />
